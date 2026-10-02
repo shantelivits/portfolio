@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.shantelivits.ca/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/02about/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/03teaching/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/04curriculum/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/05leadership/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/06organizing/index.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.shantelivits.ca/08contact/index.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
